@@ -1,0 +1,40 @@
+nav {
+  background-color: purple;
+  overflow: hidden;
+}
+a {
+  padding: 15px;
+  color: white;
+  font-size: 20px;
+  float: left;
+  text-decoration: none;
+
+}
+a:hover {
+  background-color: green;
+}
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+  color: #f7325e;
+  text-align: center;
+
+}
+body {
+  background-color: skyblue;
+ 
+}
+img {
+  width: 400px;
+  height: 300px;
+
+}
+p {
+  font-size: 20px;
+}
+li {
+  font-size: 20px;
+}
